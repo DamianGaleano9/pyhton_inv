@@ -31,8 +31,6 @@ astros = [
     'MacCann'
     'Davis',
     'Tucker'
-
-
 ]
 
 astros_lineup = Lineup(astros)
@@ -41,6 +39,30 @@ process = iter(astros_lineup)
 
 
 print(next(process))
-
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
+print(next(process))
 
 
